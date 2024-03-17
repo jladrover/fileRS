@@ -1,4 +1,4 @@
-# filerecovery tool
+# file recovery tool
 ## Overview
 This tool that recovers a deleted file specified by the user. It is assumed that the deleted file is in the root directory.
 ## Compile & Run Guide
