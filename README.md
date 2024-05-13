@@ -1,6 +1,6 @@
 # file recovery tool
 ## Overview
-This tool that recovers a deleted file specified by the user. It is assumed that the deleted file is in the root directory.
+This is a tool that recovers a deleted file specified by the user. It is assumed that the deleted file is in the root directory.
 ## Compile & Run Guide
 Prerequisites: 
 - Install GCC for C compilation.
